@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=B89F61FB&repeat=false&width=435&lines=Inventory+Tracker+%F0%9F%93%8B)](https://git.io/typing-svg)
+
+---
+
 # Where Did It All Start:
 Pantry made list on apple notes, and tasked to do some inventory work to know how much of everything we had. 
 
